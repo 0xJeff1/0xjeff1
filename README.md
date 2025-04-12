@@ -20,10 +20,15 @@
 
 ## 🔥 **About Me**
 
-- 🎓 Coding student at [1337 School](https://1337.ma/)
-- 💻 Currently working on improving my **full-stack development** skills  
-- 🌱 Learning **React** and **Django**  
-- 🔧 I've completed many projects in **C** and I'm always open to learning new technologies!
+🎓 **Coding student at [1337 School](https://1337.ma/)**  
+💻 Currently working on improving my **full-stack development** skills  
+🌱 Learning **React** and **Django**  
+🔧 Completed many projects in **C**  
+🚀 Always open to learning new technologies!
+
+## Portfolio
+
+🌐 [Check out my portfolio here](https://0xjeff1.github.io/portfolio_____/index.html)
 
 
 <br>
