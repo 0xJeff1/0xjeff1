@@ -21,10 +21,10 @@
 ## 🔥 **About Me**
 
 - 🎓 Coding student at [1337 School](https://1337.ma/)
-- 🔐 Passionate about cybersecurity and CTFs
-- 💻 Currently working on improving my full-stack development skills
-- 🌱 Learning **React, Django, and security concepts**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
+- 💻 Currently working on improving my **full-stack development** skills  
+- 🌱 Learning **React** and **Django**  
+- 🔧 I've completed many projects in **C** and I'm always open to learning new technologies!
+
 
 <br>
 
@@ -33,14 +33,13 @@
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### **Web Development**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -50,23 +49,7 @@
 
 <br>
 
-## 📊 **GitHub Stats**
 
-<div align="center">
-  <a href="https://github.com/jeftani">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeftani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeftani&layout=compact&langs_count=8&theme=dark"/>
-  </a>
-</div>
-
-<br>
-
-## 🏆 **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeftani&theme=onedark&no-frame=true&row=1&column=7" alt="jeftani" />
-</div>
-
-<br>
 
 ## 🌐 **Connect With Me**
 
